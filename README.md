@@ -1,5 +1,11 @@
-### Hi there 👋
-
+<div id="header" align="center">
+  <img alt="Gif" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" width="300" />
+  <h1>
+    Hi there 👋 I'm <a href="https://www.linkedin.com/in/subham-agrawal-38a826174">Subham Agrawal</a>
+  </h1>
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fsubhamagrawal7"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsubhamagrawal7&label=Visitors&countColor=%232ccce4&style=flat" /></a>
+</div>
 <!--
 **subhamagrawal7/subhamagrawal7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+###
